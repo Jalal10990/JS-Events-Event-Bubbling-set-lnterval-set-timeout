@@ -1,0 +1,19 @@
+.child{
+    background-color: aqua;
+    border: 2px solid black;
+    padding: 14px;
+    margin: 14px;
+    cursor: pointer;
+}
+.childContainer{
+    background-color: blue;
+    padding: 14px;
+    margin: 14px;
+    cursor: pointer;
+}
+.container{
+    background-color: rgb(166, 187, 10);
+    padding: 14px;
+    margin: 14px;
+    cursor: pointer;
+}
